@@ -6,6 +6,7 @@ import { FaLaptop } from 'react-icons/fa';
 export default function Menu() {
     return (
         <section>
+            
             <span>
 
                 <FaLaptop size={50} />

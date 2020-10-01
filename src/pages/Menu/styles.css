@@ -2,6 +2,12 @@ section{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-image: url("./../../assets/free-linux-wallpaper-1.jpg");
+    background-size: 100% 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
 }
 
 ul {
@@ -15,7 +21,7 @@ li {
 
 .style-link{
     text-decoration:none;
-    color:red;
+    color:rgb(248, 242, 242);
     text-transform: uppercase;
     border: 1px solid black;
     border-radius: 20px 10px;
