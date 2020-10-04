@@ -7,7 +7,7 @@ export default function Topinho() {
             
             <span>
 
-                <img src={topinho} />
+                <img src={topinho} alt="topinho" />
 
             </span>
         </section>
