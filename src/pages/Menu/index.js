@@ -1,8 +1,7 @@
 import React from 'react';
 import './styles.css';
 
-import { Link } from 'react-router-dom';
-import { FaUserCircle, FaSearch, FaRegHeart, FaShoppingCart, FaSearchLocation } from 'react-icons/fa';
+import { FaUserCircle, FaSearch, FaRegHeart, FaShoppingCart } from 'react-icons/fa';
 
 import logo from "../../assets/logo.jpg"
 
@@ -35,36 +34,6 @@ export default function Menu() {
             <FaShoppingCart size={30} color="white" />
             </li>
             </ul>
-            </span>
-            <span>
-        
-            
-
-            </span>
-
-            <span>
-
-                <ul>
-                
-                    <li>
-                        <Link className="style-link" to="/"><FaSearchLocation size={20} color="yellow" />Informe seu Cep </Link>
-                    </li>
-
-                    <li>
-                        <Link className="style-link" to="/portfolio">seja a mais</Link>
-                    </li>
-                    <li>
-                        <Link className="style-link" to="/quemsomos">a empresas</Link>
-                    </li>
-                    <li>
-                        <Link className="style-link" to="/quemsomos">vote na gente</Link>
-                    </li>
-                    <li>
-                        <Link className="style-link" to="/quemsomos">baixe o app</Link>
-                    </li>
-                   
-                </ul>
-                
             </span>
         </section>
         
