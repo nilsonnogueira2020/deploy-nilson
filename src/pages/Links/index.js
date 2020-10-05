@@ -6,7 +6,7 @@ import { FaSearchLocation } from 'react-icons/fa';
 
 export default function Links() {
     return (
-        <section>
+        <section className="topolinks">
 <span>
 
 <ul>

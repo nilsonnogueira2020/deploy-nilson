@@ -1,0 +1,53 @@
+.topolinks{
+    display: flex;
+    width: 100vw;
+    height: 9vh;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e60014;
+    padding-top: 10px;
+}
+
+ul {
+    display:flex;
+    justify-content: space-between;
+    
+}
+li {
+    list-style: none;
+    justify-content: space-between;
+    
+    
+}
+
+.style-link{
+    display: flex;
+    text-decoration:none;
+    color:rgb(255,255,255);
+    font-size: 14px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+   
+    
+    
+    
+    
+}
+
+.style-link:hover{
+    text-decoration:none;
+    color:rgb(255,255,255);
+    background-color: #c20011;
+    display: flex;
+    
+    font-size: 14px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    transition: 5,5s;
+    
+    
+
+    
+}
