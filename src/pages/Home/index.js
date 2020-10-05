@@ -4,6 +4,7 @@ import './styles.css';
 import Topinho from "../Topinho";
 import Menu from "../Menu";
 import Links from "../Links";
+import Baixe from "../Baixe";
 import Footer from "../Footer";
 import Carrocel from "../Carrocel";
 
@@ -14,6 +15,7 @@ export default function Home() {
             <Menu />
             <Links />
             <hr />
+            <Baixe />
             <Carrocel />
             <h1>HOME</h1>
             <Footer />
