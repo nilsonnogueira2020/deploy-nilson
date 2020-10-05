@@ -2,6 +2,7 @@ import React from 'react';
 import './styles.css';
 import { Link } from 'react-router-dom';
 import { FaLaptop } from 'react-icons/fa';
+import logo from "../../assets/logo.jpg"
 
 export default function Menu() {
     return (
@@ -9,7 +10,7 @@ export default function Menu() {
             
             <span>
 
-                <FaLaptop size={50} />
+            <img className="logo"src={logo} alt="logo" />
 
             </span>
 
@@ -27,7 +28,7 @@ export default function Menu() {
                         <Link className="style-link" to="/quemsomos">Quem Somos</Link>
                     </li>
                 </ul>
-
+                <FaLaptop size={50} />
             </span>
         </section>
 

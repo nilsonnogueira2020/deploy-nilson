@@ -7,6 +7,12 @@ section{
     
 }
 
+.logo{
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
 ul {
     display:flex;
     
