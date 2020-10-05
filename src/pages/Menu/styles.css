@@ -1,7 +1,7 @@
 section{
     display: flex;
     width: 100vw;
-    height: 20vh;
+    height: 30vh;
     justify-content: space-between;
     align-items: center;
     background-color: #e60014;
@@ -27,7 +27,7 @@ section{
 
 input{
     display: flex;
-    width: 40vw;
+    width: 20vw;
     height: 50px;
     border: none;
     margin-top: 10px;
