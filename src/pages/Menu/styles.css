@@ -10,18 +10,19 @@ section{
     
 }
 
-p{
+.logando{
     color: #ffffff;
+    padding-left: 9px;
 }
 
 .user{
-    padding-left: 10px;
-    padding-top: 10px;
+    padding: 10px;
+
 }
 
 .cart{
-    padding-top: 10px;
-    padding-right: 5px;
+    padding: 10px;
+    
 }
 
 input{

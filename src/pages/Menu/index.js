@@ -25,7 +25,7 @@ export default function Menu() {
             </form>
             </li>
             <li className="user">
-            <FaUserCircle size={30} color="white" /><p>olá, faça seu login ou cadastre-se</p>
+            <FaUserCircle size={30} color="white" /><span className="logando">olá, faça seu login ou cadastre-se</span>
             </li>
             <li className="user">
             <FaRegHeart size={30} color="white" />
