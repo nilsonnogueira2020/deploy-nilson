@@ -7,6 +7,7 @@ import Links from "../Links";
 import Baixe from "../Baixe";
 import Footer from "../Footer";
 import Carrocel from "../Carrocel";
+import Copyright from "../Copyright";
 
 export default function Home() {
     return (
@@ -19,6 +20,7 @@ export default function Home() {
             <Carrocel />
             <h1>HOME</h1>
             <Footer />
+            <Copyright />
         </>
     );
 }

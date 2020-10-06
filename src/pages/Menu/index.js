@@ -8,7 +8,7 @@ import logo from "../../assets/logo.jpg"
 
 export default function Menu() {
     return (
-        <section>
+        <section className="menu">
             
             <span>
              <ul>
