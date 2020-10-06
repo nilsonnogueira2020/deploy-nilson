@@ -5,11 +5,11 @@ export default function Topinho() {
     return (
         
             
-            <span>
+            <>
 
                 <img src={topinho} alt="topinho" />
 
-            </span>
+            </>
         
             
           
