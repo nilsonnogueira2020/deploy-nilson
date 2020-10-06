@@ -1,7 +1,7 @@
 import React from 'react';
 import './styles.css';
 
-import { FaInstagram, FaTwitter, FaFacebookF, FaYoutube, FaHandLizard } from 'react-icons/fa';
+import { FaInstagram, FaTwitter, FaFacebookF, FaYoutube, FaSignLanguage } from 'react-icons/fa';
 
 import logo2 from "../../assets/logo2.jpg"
 
@@ -18,7 +18,7 @@ export default function Footer() {
             <form>
                    <ul>
                 <li className="user">
-                <FaHandLizard size={30} color="blue" />            
+                <FaSignLanguage size={30} color="blue" /> <span>Acessibilidade</span>           
                 </li>       
                  
                 <li><button className="saiba" type="submit"><p className="copy">saiba mais</p></button></li>
