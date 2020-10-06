@@ -1,7 +1,7 @@
 import React from 'react';
 import './styles.css';
 
-import { FaInstagram, FaTwitter, FaFacebookF, FaYoutube, FaAccessibleIcon, FaHandHolding, FaHandLizard } from 'react-icons/fa';
+import { FaInstagram, FaTwitter, FaFacebookF, FaYoutube, FaHandLizard } from 'react-icons/fa';
 
 import logo2 from "../../assets/logo2.jpg"
 
