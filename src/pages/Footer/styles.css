@@ -1,0 +1,21 @@
+.rodape{
+    
+    text-align: center;
+    align-items: center;
+    background-color:#ffff;
+    
+}
+
+.copy{
+    color: #666666;
+    font-size: 14px;
+    font-style: initial;
+    text-align: center;
+}
+
+.saiba{
+    border: #666666 solid 2px;
+    border-radius: 6px;
+    width: 85px;
+    text-align: center;
+}
