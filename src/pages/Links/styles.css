@@ -1,7 +1,6 @@
 .topolinks{
     display: flex;
-    width: 100vw;
-    height: 9vh;
+    height: 50px;
     justify-content: space-between;
     align-items: center;
     background-color: #e60014;

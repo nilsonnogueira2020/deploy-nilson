@@ -6,8 +6,8 @@ import fav from "../../assets/fav.jpg"
 
 export default function Links() {
     return (
-        <section className="topolinks">
-<span>
+        <section >
+<span className="topolinks">
 
 <ul>
 

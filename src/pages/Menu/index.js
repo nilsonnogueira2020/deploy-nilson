@@ -8,9 +8,9 @@ import logo from "../../assets/logo.jpg"
 
 export default function Menu() {
     return (
-        <section className="menu">
+        <section >
             
-            <span>
+            <span className="menu">
              <ul>
                  <li>   
             <img className="logo"src={logo} alt="logo" />
