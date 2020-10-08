@@ -26,6 +26,18 @@ export default function Links() {
     <li>
         <Link className="style-link" to="/quemsomos">baixe o app</Link>
     </li>
+    <li>
+        <Link className="style-link" to="/quemsomos">receba hoje</Link>
+    </li>
+    <li>
+        <Link className="style-link" to="/quemsomos">produtos importados</Link>
+    </li>
+    <li>
+        <Link className="style-link" to="/quemsomos">venda com a gente</Link>
+    </li>
+    <li>
+        <Link className="style-link" to="/quemsomos"><img className="fav"src={fav} alt="favicon" />oferta do dia</Link>
+    </li>
    
 </ul>
 
