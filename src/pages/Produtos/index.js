@@ -8,11 +8,11 @@ import produto04 from "../../assets/ar4.png"
 
 export default function Produtos() {
     return (
-        <>
+        
         <section className="centro">
                 <span>
                     <ul>
-                        <li>os mais vendidos</li>
+                        <li><h2>os mais vendidos de hoje</h2></li>
                     </ul>
                 </span>
                 <div className="artigos">
@@ -40,6 +40,6 @@ export default function Produtos() {
 
             </section>
             
-        </>
+        
     );
 }

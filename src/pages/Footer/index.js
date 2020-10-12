@@ -14,7 +14,7 @@ export default function Footer() {
                  <li>   
             <img className="logo"src={logo2} alt="logo2" />
                 </li>
-                <li>
+                
             <form>
                    <ul>
                 <li className="user">
@@ -26,7 +26,7 @@ export default function Footer() {
                 </ul>
             </form>
             
-            </li>
+            
             <li className="user">
             <FaYoutube size={30} color="grey" />            
             </li>

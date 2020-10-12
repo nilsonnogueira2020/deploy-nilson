@@ -1,17 +1,23 @@
 .rodape{
-    
-    text-align: center;
-    align-items: center;
     background-color:#EAEAEA;
+    align-content: center;
+    padding-right: 20px;
+
     
 }
 
-.copy{
-    color: #666666;
-    font-size: 14px;
-    font-style: initial;
-    text-align: center;
+.rodape span ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
 }
+
+.rodape span ul li{
+    list-style: none;
+}
+
+
 
 .saiba{
     border: #666666 solid 2px;
