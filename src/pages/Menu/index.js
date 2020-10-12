@@ -8,14 +8,14 @@ import logo from "../../assets/logo.jpg"
 
 export default function Menu() {
     return (
-        <section >
+        <section className="menu">
             
-            <span className="menu">
+            <span >
              <ul>
-                 <li>   
+                 <li className="spacelogo">   
             <img className="logo"src={logo} alt="logo" />
                 </li>
-                <li>
+                
             <form>
                    <ul>
                     <li>
@@ -24,7 +24,7 @@ export default function Menu() {
                 
                 </ul>
             </form>
-            </li>
+            
             <li className="user">
             <FaUserCircle size={30} color="white" /><span className="logando">olá, faça seu login ou cadastre-se</span>
             </li>

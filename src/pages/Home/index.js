@@ -17,7 +17,6 @@ export default function Home() {
             <Topinho />
             <Menu />
             <Links />
-            <hr />
             <Baixe />
             <Carrocel />
             <Produtos />

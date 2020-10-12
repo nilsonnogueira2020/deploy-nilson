@@ -1,18 +1,29 @@
 .menu{
-    
-    
-    height: 25vh;
-    justify-content: space-between;
-    align-items: center;
+    height: 100px;
     background-color: #e60014;
-    padding-top: 10px;
+    align-content: center;  
+
+}
+
+.menu span ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: center;
+
+}
+.menu span ul li{
+    list-style: none;
     
-    
+}
+
+.spacelogo{
+    padding-right: 60px;
 }
 
 .logando{
     color: #ffffff;
-    padding-left: 9px;
+    padding-left: 2px;
 }
 
 .user{
@@ -46,19 +57,10 @@ button{
     display: flex;
     width: 150px;
     padding-top: 10px;
-    padding-left: 2px;
+    
 }
 
-ul {
-    display:flex;
-    justify-content: space-between;
-    
-}
-li {
-    list-style: none;
-    
-    
-}
+
 
 .style-link{
     text-decoration:none;

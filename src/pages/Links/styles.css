@@ -8,7 +8,7 @@
 .topolinks span ul{
     display: flex;
     flex-wrap: wrap;
-    justify-content: left;
+    justify-content: space-between;
     align-items: center;
 }
 
